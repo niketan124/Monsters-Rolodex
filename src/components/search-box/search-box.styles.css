@@ -1,0 +1,13 @@
+.search-box {
+    font-family: 'Ubuntu';
+    -webkit-appearance: none;
+    background-color: #EFFFFD;
+    border: none;
+    border-radius: 25px;
+    outline: none;
+    padding: 10px;
+    width: 200px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+  
